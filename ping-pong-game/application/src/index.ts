@@ -17,6 +17,8 @@ const board_coord = board.getBoundingClientRect();
 // const ball_left = ball_coord.left;
 // const ball_top = ball_coord.top;
 
+// Ping Pong Game 
+
 class Game {
   // game state (data members)
   private scores: Scores = {
